@@ -1,4 +1,10 @@
-<h1>Hi, I'm Terrence, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Terrence, an <a href="https://linkedin.com/in/TerrenceDaniels">IT Professional</a>☺</h1>
+<h2> Certifications</h2>
+CompTIA Secure Infrastructure Specialist (A+/ Network+ / Security+)
+
+EXIN Agile Scrum Foundations | Axelos ITIL Foundation Certification
+
+CompTIA Cloud Essentials | AWS Cloud Practitioner | Microsoft Azure Fundamental
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
