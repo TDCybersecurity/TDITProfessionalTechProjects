@@ -4,7 +4,7 @@ CompTIA Secure Infrastructure Specialist (A+/ Network+ / Security+)
 
 EXIN Agile Scrum Foundations | Axelos ITIL Foundation Certification
 
-CompTIA Cloud Essentials | AWS Cloud Practitioner | Microsoft Azure Fundamental
+CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft Azure Fundamentals AZ-900
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
