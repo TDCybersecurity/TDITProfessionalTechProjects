@@ -3,11 +3,14 @@
 
 CompTIA Secure Infrastructure Specialist A+ | Network+ | Security+
 
-EXIN Agile Scrum Foundations | Axelos ITIL Foundations
+
 
 Cisco CyberOps Associate 200-201 | Linux Professional Institute Security Essentials | (ISC2) Certified in Cybersecurity
 
-CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft Azure Fundamentals AZ-900
+
+
+Google Cybersecurity Professional Certificate (currently enrolled course ends Oct 2023
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
