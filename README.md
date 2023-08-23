@@ -11,9 +11,9 @@ CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft A
 - <b>osTicket a Help Desk Ticketing System</b>
   - [osTicket Implementing and Installing.](https://github.com/TDCyberSecurity/post-install-config)
   - [osTicket Lifecycle.](https://github.com/TDCyberSecurity/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Active Directory deployed in Azure (Cloud)</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TDCyberSecurity/azure-network-protocols)
+  
  
  - <b>Linux APT</b>
   - [Linux APT installing and uninstalling applications.](https://github.com/TDCyberSecurity/osticket-prereqs)
