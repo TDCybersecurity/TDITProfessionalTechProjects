@@ -9,9 +9,9 @@ CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft A
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Install software in a Linux distribution)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/TDCyberSecurity/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/TDCyberSecurity/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/TDCyberSecurity/ticket-lifecycle)
+  - [How to install and uninstall applications in Linux.](https://github.com/TDCyberSecurity/linux)
+  - [How to use Linux commands in a Bash shell.](https://github.com/TDCyberSecurity/post-install-config)
+  - [How to use APT package manager to install suricata and tcpdump.](https://github.com/TDCyberSecurity/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TDCyberSecurity/azure-network-protocols)
