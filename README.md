@@ -1,8 +1,11 @@
 <h1>Hi, I'm Terrence, an <a href="https://linkedin.com/in/TerrenceDaniels">IT Professional and Cybersecurity Student</a>☺</h1>
 <h2> Certifications</h2>
-CompTIA Secure Infrastructure Specialist (A+/ Network+ / Security+)
 
-EXIN Agile Scrum Foundations | Axelos ITIL Foundation Certification
+CompTIA Secure Infrastructure Specialist A+ | Network+ | Security+
+
+EXIN Agile Scrum Foundations | Axelos ITIL Foundations
+
+Cisco CyberOps Associate 200-201 | Linux Professional Institute Security Essentials | (ISC2) Certified in Cybersecurity
 
 CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft Azure Fundamentals AZ-900
 
@@ -13,7 +16,7 @@ CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft A
   - [osTicket Lifecycles.](https://github.com/TDCyberSecurity/ticket-lifecycle)
 - <b>Microsoft Active Directory deployed in Azure (Cloud)</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
-   - <b>Linux APT</b>
+- <b>Linux APT</b>
   - [Linux APT installing and uninstalling applications.](https://github.com/TDCyberSecurity/osticket-prereqs)
 
 <!--
