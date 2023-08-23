@@ -10,19 +10,11 @@ CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft A
 
 - <b>osTicket a Help Desk Ticketing System</b>
   - [osTicket Implementing and Installing.](https://github.com/TDCyberSecurity/post-install-config)
-  - [osTicket Lifecycle.](https://github.com/TDCyberSecurity/ticket-lifecycle)
+  - [osTicket Lifecycles.](https://github.com/TDCyberSecurity/ticket-lifecycle)
 - <b>Microsoft Active Directory deployed in Azure (Cloud)</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
-  
- 
- - <b>Linux APT</b>
+   - <b>Linux APT</b>
   - [Linux APT installing and uninstalling applications.](https://github.com/TDCyberSecurity/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/TDCyberSecurity/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/TDCyberSecurity/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TDCyberSecurity/azure-network-protocols)
-
 
 <!--
 **TDCybersecurity/TDCyberSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
