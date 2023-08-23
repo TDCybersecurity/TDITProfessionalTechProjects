@@ -9,7 +9,7 @@ Cisco CyberOps Associate 200-201 | Linux Professional Institute Security Essenti
 
 
 
-Google Cybersecurity Professional Certificate (currently enrolled course ends Oct 2023
+Google Cybersecurity Professional Certificate (currently enrolled course ends Oct 2023)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
