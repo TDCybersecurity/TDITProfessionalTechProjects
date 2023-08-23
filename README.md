@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terrence, an <a href="https://linkedin.com/in/TerrenceDaniels">IT Professional</a>☺</h1>
+<h1>Hi, I'm Terrence, an <a href="https://linkedin.com/in/TerrenceDaniels">IT Professional and Cybersecurity Student</a>☺</h1>
 <h2> Certifications</h2>
 CompTIA Secure Infrastructure Specialist (A+/ Network+ / Security+)
 
@@ -8,7 +8,15 @@ CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft A
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Install software in a Linux distribution)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/TDCyberSecurity/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/TDCyberSecurity/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/TDCyberSecurity/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TDCyberSecurity/azure-network-protocols)
+ 
+  - - <b>Install software in a Linux distribution)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/TDCyberSecurity/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/TDCyberSecurity/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TDCyberSecurity/ticket-lifecycle)
