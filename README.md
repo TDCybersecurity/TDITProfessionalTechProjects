@@ -8,7 +8,7 @@ CompTIA Cloud Essentials+ CLO-002 | AWS Cloud Practitioner CLF-C01 | Microsoft A
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Install software in a Linux distribution)</b>
+- <b>osTicket a Help Desk Ticketing System</b>
   - [How to install and uninstall applications in Linux.](https://github.com/TDCyberSecurity/linux)
   - [How to use Linux commands in a Bash shell.](https://github.com/TDCyberSecurity/post-install-config)
   - [How to use APT package manager to install suricata and tcpdump.](https://github.com/TDCyberSecurity/ticket-lifecycle)
