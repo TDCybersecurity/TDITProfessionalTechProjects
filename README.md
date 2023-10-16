@@ -5,11 +5,11 @@ CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
 
 
 
-Cisco CyberOps Associate 200-201 | Linux Professional Institute Security Essentials | (ISC2) Certified in Cybersecurity
+Google Cybersecurity Professional Certificate | Cisco CyberOps Associate 200-201 | (ISC2) Certified in Cybersecurity
 
 
 
-Google Cybersecurity Professional Certificate (currently enrolled course ends Oct 2023)
+
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
