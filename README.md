@@ -2,6 +2,7 @@
 <h2> Certifications</h2>
 
 CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
+
 CompTIA Security Analytics Professional  (CSAP):    Security+ | CySA+
 
 
