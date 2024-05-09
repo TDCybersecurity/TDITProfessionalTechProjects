@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terrence, an <a href="https://linkedin.com/in/TerrenceDaniels">IT Professional Transitioning to Cybersecurity | Bridging Technology Expertise with Cybersecurity Aspirations</a>☺</h1>
+<h1>Hi, I'm Terrence, an <a href="https://linkedin.com/in/TerrenceDaniels">IT Professional </a>☺</h1>
 <h2> Certifications</h2>
 
 CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
