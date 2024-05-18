@@ -21,7 +21,7 @@ Google Cybersecurity Professional Certificate | Cisco CyberOps Associate 200-201
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
 - <b>VPN Virtual Private Network</b>
-  - [Linux APT installing and uninstalling applications.](https://github.com/TDCyberSecurity/osticket-prereqs)
+  - [VPNs Virtual Private Networks.](https://github.com/TDCyberSecurity/osticket-prereqs)
 
 <!--
 **TDCybersecurity/TDCyberSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
