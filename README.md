@@ -20,7 +20,7 @@ Google Cybersecurity Professional Certificate | Cisco CyberOps Associate 200-201
   - [osTicket Lifecycles.](https://github.com/TDCyberSecurity/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
-- <b>Linux APT</b>
+- <b>VPN Virtual Private Network</b>
   - [Linux APT installing and uninstalling applications.](https://github.com/TDCyberSecurity/osticket-prereqs)
 
 <!--
