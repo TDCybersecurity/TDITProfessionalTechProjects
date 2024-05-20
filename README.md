@@ -16,7 +16,7 @@ Google Cybersecurity Professional Certificate | Cisco CyberOps Associate 200-201
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket a Help Desk Ticketing System</b>
-  - [osTicket Implementing and Installing.](https://github.com/TDCyberSecurity/post-install-config)
+  - [osTicket Installation Part 1](https://github.com/TDCyberSecurity/post-install-config)
   - [osTicket Lifecycles.](https://github.com/TDCyberSecurity/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
