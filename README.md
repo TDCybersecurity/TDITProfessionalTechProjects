@@ -21,7 +21,8 @@ Google Cybersecurity Professional Certificate | Cisco CyberOps Associate 200-201
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TDCyberSecurity/configure-ad)
   - [DNS Domain Name Service Building an Intuition](https://github.com/TDCyberSecurity/-dns).
-- <b>VPN Virtual Private Network</b>
+  - [Network File Shares and Permissions](https://github.com/TDCyberSecurity/nfs).
+- <b>VPN Virtual Private Networks
   - [VPNs Virtual Private Networks.](https://github.com/TDCyberSecurity/osticket-prereqs)
 
 <!--
