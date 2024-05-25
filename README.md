@@ -4,10 +4,7 @@
 
 CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
 
-CompTIA Security Analytics Professional  (CSAP):    Security+ | CySA+
 
-
-Google Cybersecurity Professional Certificate | Cisco CyberOps Associate 200-201 | (ISC2) Certified in Cybersecurity
 
 
 
