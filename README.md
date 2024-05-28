@@ -14,7 +14,7 @@ CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket a Help Desk Ticketing System</b>
-  - [osTicket Installation Part 1](https://github.com/TDCyberSecurity/post-install-config)
+  - [osTicket: 1 Introduction and Virtual Machine Setup](https://github.com/TDCyberSecurity/post-install-config)
   - [osTicket Installation Part 2](https://github.com/TDCyberSecurity/osTicket-Installation-2)
   - [osTicket Lifecycles.](https://github.com/TDCyberSecurity/ticket-lifecycle)
 - <b>Microsoft Azure</b>
