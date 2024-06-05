@@ -25,7 +25,7 @@ CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
 - <b>VPN Virtual Private Networks
   - [VPNs Virtual Private Networks.](https://github.com/TDCyberSecurity/osticket-prereqs)
 - <b> Cyber Security Tools</b>
-  - [Network Scanning: Nmap - Network Mapper](https://github.com/TDCyberSecurity/nmap)
+  - [Network Scanning: Nmap - Network Mapper](https://github.com/TDCyberSecurity/Network-Scanning-Nmap-Network-Mapper)
 <!--
 **TDCybersecurity/TDCyberSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
