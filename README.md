@@ -4,13 +4,6 @@
 
 CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
 
-
-
-
-
-
-
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket a Help Desk Ticketing System</b>
@@ -24,7 +17,7 @@ CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
   - [Network File Shares and Permissions](https://github.com/TDCyberSecurity/Network-File-Shares-and-Permissions).
 - <b>VPN Virtual Private Networks
   - [VPNs Virtual Private Networks.](https://github.com/TDCyberSecurity/osticket-prereqs)
-- <b> Cyber Security Tools</b>
+- <b>Cyber Security Tools</b>
   - [Network Scanning: Nmap - Network Mapper](https://github.com/TDCyberSecurity/Network-Scanning-Nmap-Network-Mapper)
 <!--
 **TDCybersecurity/TDCyberSecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
