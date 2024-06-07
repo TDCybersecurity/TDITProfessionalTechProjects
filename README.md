@@ -2,7 +2,9 @@
 </h1>
 <h2>📜Certifications</h2>
 
-CompTIA Secure Infrastructure Specialist (CSIS):    A+ | Network+ | Security+
+**Google** Cybersecurity
+
+**CompTIA** Security Analyst Professional (CSAP):     Security+ / CySA+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
