@@ -2,6 +2,8 @@
 </h1>
 <h2>📜Certifications</h2>
 
+**AWS** Certified Solutions Architect Associate
+
 **Google** Cybersecurity
 
 **CompTIA** Security Analyst Professional (CSAP):     Security+ / CySA+
