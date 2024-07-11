@@ -6,7 +6,7 @@
 
 **Google** Cybersecurity
 
-**CompTIA** Security Analyst Professional (CSAP):     Security+ / CySA+
+**CompTIA** Security+ / Cybersecurity AnalystA+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
