@@ -2,11 +2,8 @@
 </h1>
 <h2>📜Certifications</h2>
 
-**AWS** Certified Solutions Architect Associate
-
-**Google** Cybersecurity
-
-**CompTIA** Security+ / Cybersecurity AnalystA+
+**CompTIA CSIS** Secure Infrastructure Specialist (A+/Network+/Security+)
+**CompTIA CSAP** Security Analytics Professional (Security+/CySA+)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
